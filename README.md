@@ -1,5 +1,5 @@
 # XML Data Indexer
-A parallel program that calculates indices for a given XML dataset, particularly the Hansard dataset, using the Bitmaps technique
+A parallel program that calculates indices for a given XML dataset, particularly the Hansard dataset, using the Bitmaps technique.
 
 ## Indexing the Hansard dataset using parallel programming 
 This project is written in C++, the OpenMP library was used for parallel processing and the bitmap technique was used to generate indexes.
@@ -20,9 +20,6 @@ The MakeFile can also be found in the **executables** folder.
 
 In order to get the output of the program, run the `make` command and then run the following command:
 
-
 `./project`
 
 The results will be shown in the terminal window or console.
-
- 
